@@ -2,7 +2,9 @@
 # Summary
 ##########################################################################################
 
-# PRACTICE
+# PRACTICE ONLY
+# got Bryce/Steven's code to run
+# worked out file structure that makes sense (for now)
 
 ##############################
 # Load packages

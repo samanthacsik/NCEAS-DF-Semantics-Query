@@ -1,0 +1,62 @@
+"identifier","entityName","attributeName","attributeLabel","attributeDefinition","attributeUnit","viewURL","query_datetime_utc"
+"doi:10.18739/A28G8FH70","14C-soil.csv","ID",NA,"Lake number",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","region",NA,"Region",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","biome",NA,"Biome",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","depth",NA,"Depth of soil sample in meters","meter","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","age_14C",NA,"Age of carbon 14","nominalYear","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","age_plusMinus",NA,"Standard deviation","nominalYear","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","fraction_modern",NA,"Fraction modern","dimensionless","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","labID",NA,"Lab identifier",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","fieldID",NA,"Field identifier",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","material_dated",NA,"Material that was dated",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-soil.csv","reference",NA,"Reference",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-CH4.csv","ID",NA,"Lake identifier",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-CH4.csv","Lake",NA,"Lake name",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-CH4.csv","field_date",NA,"Field date",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-CH4.csv","bubble_class",NA,"Bubble class",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-CH4.csv","age_14C",NA,"Age of carbon 14","nominalYear","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-CH4.csv","age_plusMinus",NA,"Standard deviation","nominalYear","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-CH4.csv","fraction_modern",NA,"Fraction modern","dimensionless","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","14C-CH4.csv","labID",NA,"Lab identifier",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","lake_number",NA,"Lake number",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","region",NA,"Region",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","subregion",NA,"Subregion",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","lake_name",NA,"Lake name",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","lake_type",NA,"Lake type",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","ecozone",NA,"Ecozone",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","type",NA,"Permafrost type",NA,"https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","latitude",NA,"Latitude","degree","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","longitude",NA,"Longitude","degree","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","area",NA,"Measurement of lake area in hectares.","hectare","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","max_depth",NA,"Max depth of lake in meters.","meter","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","shoreline_exp",NA,"Expansion rates observed at the shoreline points where lake ebullition surveys commenced in meters per year.","metersPerYear","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A28G8FH70","table1.csv","lake_exp",NA,"Percent of total lake expansion in relation to the total 1950s lake area.","dimensionless","https://search.dataone.org/view/doi:10.18739/A28G8FH70",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Date",NA,"Date in YYYY-MM-DD",NA,"https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Location",NA,"Location Name",NA,"https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Roll",NA,"Year, orientation, and flight number of photographic set.
+                                                  The last two digits of the year, a letter representing the orientation of the camera,
+                                                  and a digit representing the flight number",NA,"https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Frame",NA,"Photographic frame respective to its roll","dimensionless","https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Latitude",NA,"Latitude in decimal degrees","degree","https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Longitude",NA,"Longitude in decimal degrees","degree","https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Altitude",NA,"Altitude of frame capture (feet)","foot","https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Media",NA,"Type of photograph (BW/Color)",NA,"https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2KJ9C","77Roll6.csv","Comments",NA,"Additional relevant information",NA,"https://search.dataone.org/view/doi:10.18739/A2KJ9C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Date_Time",NA,"Date and time of sample collection",NA,"https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Site",NA,"Site of samples collection",NA,"https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Sulfate",NA,"Sulfate concentration of sample (mg/L)","milligramsPerLiter","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Calcium",NA,"Calcium concentration of sample (mg/L)","milligramsPerLiter","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Magnesium",NA,"Magnesium concentration of sample (mg/L)","milligramsPerLiter","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Potassium",NA,"Potassium concentration of sample (mg/L)","milligramsPerLiter","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Sodium",NA,"Sodium concentration of sample (mg/L)","milligramsPerLiter","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Nitrate",NA,"Nitrate concentration of sample (mg/L)","milligramsPerLiter","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","geochem.csv","Chloride",NA,"Chloride concentration of sample (mg/L)","milligramsPerLiter","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","Date_Time",NA,"Date and time of sample collection",NA,"https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","Site",NA,"Site of sample collection",NA,"https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","18O",NA,"δ18O (‰ VSMOW) of sample","dimensionless","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","D",NA,"δD (‰ VSMOW) of sample","dimensionless","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","d_excess",NA,"Deuterium excess (‰ VSMOW) of sample","dimensionless","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","Lat",NA,"Latitude of sample collection (decimal degrees)","degree","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","Long",NA,"Longitude of sample collection (decimal degrees)","degree","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","Elevation",NA,"Elevation of sample collection (m)","meter","https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40
+"doi:10.18739/A2ZS2KC8C","isotopes.csv","Vapor_source",NA,"Vapor source of sample collection as determined by HYSPLIT (Hybrid Single Particle Lagrangian Integrated Trajectory Model)",NA,"https://search.dataone.org/view/doi:10.18739/A2ZS2KC8C",2020-09-13 16:42:40

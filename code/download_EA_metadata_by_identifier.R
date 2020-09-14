@@ -37,6 +37,7 @@ my_query <- query(adc_mn,
                   as = "data.frame")
 
 # write.csv(my_query, file = here::here("data", "identifiers", "PRACTICEquery2020-09-13", paste("PRACTICEquery", Sys.Date(),".csv", sep = "")), row.names = FALSE) 
+# write.csv(my_query, file = here::here("data", "queries", paste("PRACTICEquery", Sys.Date(),".csv", sep = "")), row.names = FALSE) 
 
 ##############################
 # obtain entity-attribute metadata from multiple data packages in the Arctic Data Center

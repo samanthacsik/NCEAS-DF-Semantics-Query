@@ -13,6 +13,7 @@
 library(dataone)
 library(eatocsv)
 library(tidyverse)
+library(svMisc)
 
 ##############################
 # set nodes & get token
@@ -49,13 +50,16 @@ identifiers_file <- list.files(path = here::here("data", "identifiers", "PRACTIC
 identifiers_df <- read.csv(here::here("data", "identifiers", "PRACTICEquery2020-09-13", "PRACTICEquery2020-09-13.csv"), stringsAsFactors = FALSE)
 
 # download .xml files for each data package 
-for (identifier in identifiers_df$identifier){
+for (index in 1:length(identifiers_df$identifier)) {
+  identifier <- identifiers_df$identifier[[index]]
   cn <- CNode("PROD")
-  print(identifier)
-  download_objects(node = cn, 
+  # print(index)
+  # print(identifier)
+  download_objects(node = cn,
                    pids = identifier,
-                   path = here::here("data", "identifiers", "PRACTICEquery2020-09-13", "xml"))
-}
+                   path = here::here("data", "identifiers", "delete_me")) # "PRACTICEquery2020-09-13", "xml"
+  progress(index, max.value = length(identifiers_df$identifier))
+  }
 
 # extract attribute-level metadata from all downloaded .xml files in the working directory
 document_paths <- list.files(setwd(here::here("data", "identifiers", "PRACTICEquery2020-09-13", "xml")), full.names = TRUE, pattern = "*.xml")

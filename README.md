@@ -23,8 +23,8 @@ These analyses were performed in R (version ?) on the datateam server (NCEAS)
 
 ### Code 
 
-*`ORIGINAL_download_EA_metadata_by_identifier.R`: original code by Steven Chong to extract attribute information from ADC data holdings using Bryce Mecum's `eatocsv` package using data package identifiers
-*`download_EA_metadata_by_identifier.R` : my modified code that first uses a solr query to extract data package identifiers, followed by slightly modified code from the `ORIGINAL ` file (above)
+* `ORIGINAL_download_EA_metadata_by_identifier.R`: original code by Steven Chong to extract attribute information from ADC data holdings using Bryce Mecum's `eatocsv` package using data package identifiers
+* `download_EA_metadata_by_identifier.R` : my modified code that first uses a solr query to extract data package identifiers, followed by slightly modified code from the `ORIGINAL ` file (above)
 
 ### Data
 
